@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2020/11/08 20:08:25.032,=C:\Users\Neimestre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/08 20:26:35.960,C:\Users\Neimestre\Documents\Embarcadero\Studio\Projects\Barcode reader\Barcode.pas=C:\Users\Neimestre\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/11/08 20:26:35.960,C:\Users\Neimestre\Documents\Embarcadero\Studio\Projects\Barcode reader\Barcode.fmx=C:\Users\Neimestre\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2020/11/08 20:26:42.796,C:\Users\Neimestre\Documents\Embarcadero\Studio\Projects\Barcode reader\ProjectBarcode.dproj=C:\Users\Neimestre\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5" Android=""/>
+  </ActiveMobileDevice>
+</BorlandProject>
